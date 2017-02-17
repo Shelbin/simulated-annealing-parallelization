@@ -1,0 +1,2 @@
+# simulated-annealing-parallelization
+全国并行应用挑战赛作品-利用MPI并行编程技术实现对解决TSP问题的模拟退火算法优化
